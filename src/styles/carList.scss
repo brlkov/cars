@@ -1,0 +1,10 @@
+.car-list {
+    margin-top: 100px;
+}
+
+
+@media (max-width: 500px) {
+    .car-list {
+        margin-top: 220px;
+    }
+}
